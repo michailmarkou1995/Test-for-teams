@@ -1,7 +1,7 @@
 # Test-for-teams
 Unity devs team testing
 
-• Michail Markou\
+• Michail Markou 1st Team member\
 •\
 •\
 •\
