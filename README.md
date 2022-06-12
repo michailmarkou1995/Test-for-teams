@@ -3,4 +3,5 @@
 Breakfast List:\
 • Milk\
 • Protein Whey\
-• 
+• Choloate\
+•
