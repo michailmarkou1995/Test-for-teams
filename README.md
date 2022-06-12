@@ -1,6 +1,6 @@
 # Test-for-teams
 
 Breakfast List:\
-• Milk
-• Protein Whey
+• Milk\
+• Protein Whey\
 • 
