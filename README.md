@@ -3,4 +3,4 @@
 Breakfast List:\
 • Milk\
 • Protein Whey\
-• ch
+• chocolate
