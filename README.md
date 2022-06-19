@@ -3,5 +3,5 @@
 Breakfast List:\
 • Milk\
 • Protein Whey\
-• cho
+• cho\
 • a
